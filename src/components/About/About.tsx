@@ -40,7 +40,7 @@ export function About() {
             <h3>Education:</h3>
             <h4>Bachelor of Technology in Computer Science &amp; Engineering</h4>
             <p>United Institute of Technology, Prayagraj | 2023 - 2027 (Expected)</p>
-            <p>SGPA: 6.35 (as of 5th semester)</p>
+            <p>SGPA: 6.35 (as of 6th semester)</p>
           </div>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={550}>
