@@ -13,7 +13,7 @@ export function About() {
     <Container id="about">
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.21 * 1000}>
-          <img src="/Images/Vidit%20Singh.jpeg" alt="Vidit Singh" />
+         <img src="/Images/Vidit.jpeg" alt="Vidit Singh" />
         </ScrollAnimation>
       </div>
       <div className="about-text">
